@@ -1,0 +1,26 @@
+_repo: Napoleons-syskon_65225
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Söderhjelm, Alma
+    alias: Soderhjelm, Alma
+    birthdate: 1870
+    deathdate: 1949
+    gutenberg_agent_id: '53147'
+    url: http://www.gutenberg.org/2009/agents/53147
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alma_S%C3%B6derhjelm
+    - https://sv.wikipedia.org/wiki/Alma_S%C3%B6derhjelm
+description: ''
+gutenberg_issued: '2021-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65225'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Napoleons syskon
+url: http://www.gutenberg.org/ebooks/65225
